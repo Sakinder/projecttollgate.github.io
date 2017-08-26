@@ -1,7 +1,0 @@
-import streama.TvShow
-
-model {
-	TvShow tvShow
-}
-
-json tmpl.tvShow(tvShow)

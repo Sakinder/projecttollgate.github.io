@@ -1,7 +1,0 @@
-import streama.File
-
-model {
-	File file
-}
-
-json tmpl.file(file)

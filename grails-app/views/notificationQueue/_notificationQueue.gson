@@ -1,7 +1,0 @@
-import streama.NotificationQueue
-
-model {
-	NotificationQueue notificationQueue
-}
-
-json g.render(notificationQueue)

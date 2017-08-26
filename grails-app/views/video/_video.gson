@@ -1,7 +1,0 @@
-import streama.Video
-
-model {
-	Video video
-}
-
-json g.render(video)
